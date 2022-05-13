@@ -1,0 +1,12 @@
+[submodule "DukeFR.github.io"]
+	path = DukeFR.github.io
+	url = https://github.com/DukeFR/DukeFR.github.io.git
+	branch = master
+[submodule "publish"]
+	path = publish
+	url = https://github.com/DukeFR/DukeFR.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/DukeFR/DukeFR.github.io.git
+	branch = master
