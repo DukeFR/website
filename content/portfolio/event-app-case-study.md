@@ -1,9 +1,9 @@
 ---
-title: Event App Case Study
+title: Création d'une expérience VR
 date: 2020-08-12T18:07:16.000+06:00
-thumbnail: images/portfolio/portfolio-2.png
-service: Web Design, Branding
-client: Johnathon Doe
+thumbnail: images/portfolio/VR.JPG
+service: Oculus Quest 2, Unity, C#
+client: Ecole de Technologie Supérieure
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
   voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
