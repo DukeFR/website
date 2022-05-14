@@ -2,7 +2,7 @@
 enable: true
 topTitle: Mon CV
 title: >
-  ## My Expertises
+  ## Mon Resume
 
 
 tab1Name: Formation
@@ -22,35 +22,39 @@ education:
 
       Réalisé à l'ECE Paris
     time: 2017-2023
-  - content: >
-      #### Master in Arts
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
   - content: >
-      #### Master in Arts
+      #### Diplôme du TOEIC et du TOEFL
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Obtention du diplôme du TOEIC avec un score de 965 et du TOEFL avec un score de 1000
+    time: 2020
+
+  - content: >
+      #### Semestre d'études à Heriott-Watt University à Edimbourg
+
+      Durant ce semestre en Ecosse, j'ai pu me spécialiser dans les domaines de l'intelligence artificielle, du VHDL ou encore dans la gestion de projets
+    time: Septembre 2019 - Janvier 2020
+
+  - content: >
+      #### Exposition d'une oeuvre d'art à San Francisco
+
+      J'ai effectué un mois d'immersion dans l'écosystème de la Silicon Valley à San Francisco, j'ai pu y exposer une oeuvre mélant art et science sur le thème "Frontiers"
+    time: Janvier 2019 - Février 2019
+
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### OneStock 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Stage de 4 mois effectué à Toulouse dans l'entreprise OneStock afin de programmer en Python un algorithme permettant d'harmoniser les stocks, les commandes et les envois entre plusieurs magasins d'un même groupe.
+    time: Avril 2021 - Août 2021
   - content: >
-      #### Aperture Science 
+      #### Network Gaming Association
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Président de l'association de jeu vidéo du campus Inseec regroupant 4 écoles, j'ai pu organiser des évènements avec une équipe de 15 personnes pour plus de 200 membres actifs.
+    time: Avril 2020 - Avril 2021
   - content: >
-      #### ACME Inc. 
+      #### SNCF 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      Stage de 2 mois dans l'entreprise SNCF afin de programmer un outil en C permettant de faciliter les tests de cartes d'abonnements NFC.
+    time: Janvier 2020 - Fevrier 2020

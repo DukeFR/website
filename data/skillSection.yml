@@ -2,16 +2,16 @@
 enable: true
 topTitle: Mes compétences
 content: >
-  ## Why hire me for your next project?
-
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  ## Liste de mes compétences principales
 
 image: images/skill/skill_image.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: C, C#, C++, Java
+    percent: 70
+  - title: SQL, MongoDB, Redis
     percent: 85
+  - title: Python
+    percent: 90
+  - title: Machine Learning
+    percent: 80

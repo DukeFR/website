@@ -25,11 +25,23 @@ name = "Mes Competences"
 url = "#skills"
 weight = 6
 
-# Sitemap Menu
+# Menu
 [[menu.sitemap]]
 name = "A propos de moi"
 url = "about"
 weight = 1
+[[menu.sitemap]]
+name = "Projets"
+url = "#portfolio"
+weight = 2
+[[menu.sitemap]]
+name = "Mon CV"
+url = "#resume"
+weight = 3
+[[menu.sitemap]]
+name = "Mes Competences"
+url = "#skills"
+weight = 6
 
 
 [params]
